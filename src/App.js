@@ -48,9 +48,6 @@ const App = () => {
             confidence, skills, and strategies you need to trade like a pro –
             even if you’re just starting out!
           </p>
-          <a href='#menu' className='btn'>
-            Explore Programs
-          </a>
         </div>
       </section>
 
